@@ -1,6 +1,6 @@
-eg<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! <br/> I'm <b>Shrouk Fareg</b>, Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Egypt</b>, currently learning web development and AI.</p>
+<p>Welcome to my page! <br/> I'm <b>Shrouk Fareg</b>, Computer Science student from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Egypt</b>, currently learning web development, Python, and AI projects.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -13,19 +13,30 @@ eg<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob
 </p>
 
 <h3>My Projects & Learning</h3>
-<ul>
-  <li><b>Web Portfolio:</b> Practiced HTML, CSS, and JavaScript for personal projects.</li>
-  <li><b>Python Scripts:</b> Automated small tasks and learned data handling.</li>
-  <li><b>AI Projects:</b> Explored basic AI concepts and prompt engineering.</li>
-</ul>
-
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/ShroukFareg" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shrouk-fareg" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">This <i>README</i> file can be updated automatically using <b>GitHub Actions</b>!</p>src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
-<p align="center">This <i>README</i> file can be updated automatically using <b>GitHub Actions</b>!</p>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="#"><b>Portfolio Website</b></a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>Python Automation Scripts</b></a></td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><a href="#"><b>AI & ML Mini Projects</b></a></
